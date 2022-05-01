@@ -2,7 +2,6 @@
 Model exported as python.
 Name : LiDAR Metrics Extraction
 Group : EFI-CRM
-With QGIS : 32200
 """
 
 from qgis.core import QgsProcessing
